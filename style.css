@@ -1,0 +1,25 @@
+body {
+  font-family: garamond, serif;
+  margin: 100px 100px;
+  background-color: bisque;
+}
+
+.container {
+  display: flex;
+  gap: 50px;
+}
+
+#posts {
+  width: 400px;
+}
+
+i {
+  cursor: pointer;
+}
+.options {
+  display: flex;
+  gap: 25px;
+}
+#msg {
+  color: red;
+}
